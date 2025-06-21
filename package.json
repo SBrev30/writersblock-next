@@ -12,7 +12,10 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "lucide-react": "^0.263.1"
+    "lucide-react": "^0.263.1",
+    "reactflow": "^11.11.4",
+    "@sentry/react": "^7.114.0",
+    "@sentry/vite-plugin": "^2.20.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
